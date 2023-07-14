@@ -20,13 +20,19 @@ export const Home: React.VFC = () => (
       CAN Controller Bringup with Litex SOC The task’s aim is to bringup a Litex
       based SOC with a CAN controller. The effort involved in the scope of this
       task is to integrate an existing open source CAN controller IP in FPGA and
-      make it functional with required device drivers. Components involved - 
+      make it functional with required device drivers.
+    </P>
+    <P>
       CAN core IP based on an MIT-licensed variant of the CTU CAN FD Controller
-      developed by the Czech Technical University in Prague.  RISC-V softcore
-      based on LiteX, a Python-based System on a Chip (SoC) designer for open
-      source supported Field Programmable Gate Array (FPGA).  Device Driver
-      based on SocketCAN, a standard common interface for CAN devices in the
-      Linux kernel.
+      developed by the Czech Technical University in Prague.
+    </P>
+    <P>
+      RISC-V softcore based on LiteX, a Python-based System on a Chip (SoC)
+      designer for open source supported Field Programmable Gate Array (FPGA).
+    </P>
+    <P>
+      Device Driver based on SocketCAN, a standard common interface for CAN
+      devices in the Linux kernel.
     </P>
   </div>
 );
