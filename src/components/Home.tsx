@@ -26,7 +26,8 @@ export const Home: React.VFC = () => (
       CAN Bus with external CAN master/slave devices over specifications of
       CANopen network..
     </P>
-    <P>Milestone 3 - Bringup a Litex based SOC with Ethernet Core.</P>
+    <P>
+      Milestone 3 - Bringup a Litex based SOC with Ethernet Core.</P>
     <P>
       Milestone 4 - Bringup the middleware, which can support automotive
       protocols like Diagnostics and Measuement & Calibration, based on standard
