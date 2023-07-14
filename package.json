@@ -1,17 +1,17 @@
 {
-  "name": "spa-github-pages",
+  "name": "librecar-milestone-pages",
   "version": "6.1.0",
   "private": true,
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "Librecae Milestone",
   "scripts": {
     "start": "webpack-dev-server --host 0.0.0.0 --disable-host-check --open-page librecar-milestone",
     "build": "webpack -p"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafgraph/spa-github-pages.git"
+    "url": "git+https://disdi.github.io/librecar-milestone.git"
   },
-  "author": "Rafael Pedicini <rafael@rafgraph.dev>",
+  "author": "disdi <disdi@librecar.dev>",
   "license": "MIT",
   "dependencies": {
     "@radix-ui/react-icons": "^1.0.3",

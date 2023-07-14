@@ -44,12 +44,12 @@ export const App: React.VFC = () => {
   return (
     <AppContainer>
       <HeaderContainer>
-        <H1>Single Page Apps for GitHub Pages</H1>
+        <H1>Librecar Milestone</H1>
         <HeaderIconContainer>
           <DarkModeButton />
           <GitHubIconLink
-            href="https://github.com/rafgraph/spa-github-pages"
-            title="GitHub repository for SPA GitHub Pages"
+            href="https://github.com/disdi/librecar-milestone"
+            title="GitHub repository for Librecar Milestone"
           />
         </HeaderIconContainer>
       </HeaderContainer>
