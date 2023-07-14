@@ -1,1 +1,1 @@
-Sitemap: https://spa-github-pages.rafgraph.dev/sitemap.txt
+Sitemap: https://disdi.github.io/librecar-milestone/sitemap.txt
