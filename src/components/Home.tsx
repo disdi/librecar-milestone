@@ -17,25 +17,26 @@ const RepoReadmeLink: React.VFC = () => (
 export const Home: React.VFC = () => (
   <div>
     <P>
-      Milestone 1 - CAN Controller Bringup with Litex SOC. Integrate an existing
-      open source CAN controller IP in FPGA and make it functional with required
-      device drivers.
+      <b>Milestone 1</b> - CAN Controller Bringup with Litex SOC. Integrate an
+      existing open source CAN controller IP in FPGA and make it functional with
+      required device drivers.
     </P>
     <P>
-      Milestone 2 - Enable Litex SOC running on FPGA to communicate on a real
-      CAN Bus with external CAN master/slave devices over specifications of
+      <b>Milestone 2</b> - Enable Litex SOC running on FPGA to communicate on a
+      real CAN Bus with external CAN master/slave devices over specifications of
       CANopen network..
     </P>
     <P>
-      Milestone 3 - Bringup a Litex based SOC with Ethernet Core.</P>
+      <b>Milestone 3</b> - Bringup a Litex based SOC with Ethernet Core.
+    </P>
     <P>
-      Milestone 4 - Bringup the middleware, which can support automotive
+      <b>Milestone 4</b> - Bringup the middleware, which can support automotive
       protocols like Diagnostics and Measuement & Calibration, based on standard
       automotive specifications.
     </P>
     <P>
-      Milestone 5 - Integrate LibreCar with Rest of Vehicle Bus of Opensource
-      projects.
+      <b>Milestone 5</b> - Integrate LibreCar with Rest of Vehicle Bus of
+      Opensource projects.
     </P>
   </div>
 );
